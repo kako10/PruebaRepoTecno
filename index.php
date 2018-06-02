@@ -4,6 +4,6 @@
 	<title>Prueba Repositorio Remoto</title>
 </head>
 <body>
-
+	<p>PRueba desde remoto</p>
 </body>
 </html>
